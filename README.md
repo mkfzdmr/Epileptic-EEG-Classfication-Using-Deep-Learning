@@ -20,9 +20,6 @@ This repository includes trained models of this work.
 
 https://doi.org/10.1186/s12911-021-01521-x
 
-## Web Site
-
-https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-021-01521-x
 
 ## Citation
 
