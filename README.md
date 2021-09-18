@@ -28,7 +28,7 @@ model.summary()
 
 ## DOI
 
-https://doi.org/10.1186/s12911-021-01521-x
+https://doi.org/10.1142/S012906572150026X
 
 
 ## Citation
@@ -41,8 +41,8 @@ Citation is now available. Please cite us by following;
 author = {Ozdemir, Mehmet Akif and Cura, Ozlem Karabiber and Akan, Aydin},
 title = {Epileptic EEG Classification by Using Time-Frequency Images for Deep Learning},
 journal = {International Journal of Neural Systems},
-volume = {0},
-number = {0},
+volume = {31},
+number = {08},
 pages = {2150026},
 year = {2021},
 doi = {10.1142/S012906572150026X},
