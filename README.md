@@ -12,8 +12,18 @@ Epilepsy is one of the most common brain disorders worldwide. The most frequentl
 This repository includes trained models of this work.
 
 ### Test accuracy score: 99.21% with two clasess and input sizes of 128x128:  [Model_31](/models/m31.h5)
+### LATEST! Test accuracy score: 99.28% with two clasess and input sizes of 128x128:  [Model_32](/models/m32.h5)
 
+## Load The Model Weights in your project
+Tutorial: [Click](https://www.tensorflow.org/guide/keras/save_and_serialize)
 
+```Python
+from keras.models import load_model
+
+model = load_model('m32.h5')
+model.summary()
+
+```
 
 
 ## DOI
