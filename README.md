@@ -11,7 +11,7 @@ Epilepsy is one of the most common brain disorders worldwide. The most frequentl
 ## Content
 This repository includes trained models of this work.
 
-### Test accuracy score: 99.21% with two clasess and input sizes of 128x128:  [Model_31]()
+### Test accuracy score: 99.21% with two clasess and input sizes of 128x128:  [Model_31](/models/m31.h5)
 
 
 
