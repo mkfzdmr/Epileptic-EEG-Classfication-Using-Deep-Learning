@@ -24,8 +24,10 @@ model = load_model('m32.h5')
 model.summary()
 
 ```
+## Example Model inputs
+![Figure 1](https://github.com/mkfzdmr/Epileptic-EEG-Classfication-Using-Deep-Learning/blob/main/E1.png)
 
-
+![Figure 21](https://github.com/mkfzdmr/Epileptic-EEG-Classfication-Using-Deep-Learning/blob/main/E2.png)
 ## DOI
 
 https://doi.org/10.1142/S012906572150026X
