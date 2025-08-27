@@ -57,4 +57,4 @@ Cite from [Google Scholar](https://scholar.google.com/scholar?hl=tr&as_sdt=0%2C5
 
 
 ## Contact
-If you need any help, feel free to start an issue (preferred because other people can benefit) or send me an email: [makif.ozdemir@ikcu.edu.tr](mailto:makif.ozdemir@ikcu.edu.tr)
+If you need any help, feel free to start an issue (preferred because other people can benefit) or send me an email: [makif.ozdemir[at]ikcu.edu.tr]
